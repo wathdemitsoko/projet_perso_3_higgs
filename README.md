@@ -20,6 +20,7 @@ Le fichier utilisé dans le notebook est :
 ```text
 training.csv
 ```
+**Le fichier est retrouvable sur le lien Kaggle:** https://www.kaggle.com/competitions/higgs-boson
 
 Le jeu de données contient :
 
