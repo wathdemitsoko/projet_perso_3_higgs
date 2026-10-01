@@ -424,20 +424,11 @@ Cette organisation permet de relier directement l'analyse exploratoire aux choix
 
 ---
 
-# 6. Fichiers du projet
 
-```text
-.
-├── boson_higgs_complet_xgboost.ipynb
-├── training.csv
-└── README_boson_higgs_complet.md
-```
-
-Le fichier `training.csv` n'est pas fourni avec le notebook : il doit être placé dans le même répertoire pour exécuter les cellules de chargement et de classification.
 
 ---
 
-# 7. Exécution du notebook
+# 6. Exécution du notebook
 
 Installer les bibliothèques nécessaires :
 
